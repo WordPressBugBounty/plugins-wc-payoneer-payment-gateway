@@ -1,0 +1,1 @@
+# plugins-wc-payoneer-payment-gateway
